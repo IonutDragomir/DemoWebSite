@@ -103,7 +103,7 @@ export default {
             flex-direction: row;
             justify-content: space-around;
             width: 63%;
-            margin-top: 4.45vw;
+            margin-top: 4.47vw;
             margin-left: 4vw;
 
             span {
