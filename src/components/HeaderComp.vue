@@ -46,6 +46,10 @@ export default {
         align-items: center;
         justify-content: center;
         width: 25%;
+
+        img {
+            margin-left: -4vw;
+        }
     }
 
     .menu-container {
@@ -129,12 +133,13 @@ export default {
         .logo-container {
             img {
                 height: 4vw;
+                margin-left: 5vw;
             }
         }
 
         .menu-container {
-            margin-left: 5vw;
-            width: 74%;
+            margin-left: 0vw;
+            width: 75%;
 
             p {
                 font-size: 1.5vw;
