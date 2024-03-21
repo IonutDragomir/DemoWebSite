@@ -50,10 +50,10 @@ export default {
 
     .menu-container {
         height: 7vh;
-        width: 50%;
+        width: 55%;
         display: flex;
         flex-direction: row;
-        justify-content: space-evenly;
+        justify-content: flex-end;
         align-items: center;
         color: #fff;
         margin-left: 20vw;
@@ -142,7 +142,7 @@ export default {
             }
 
             div {
-                margin-right: -15.6vw;
+                // margin-right: -15.6vw;
 
                 img {
                     margin-left: 1vw;
